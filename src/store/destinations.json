@@ -2,7 +2,7 @@
   {
     "country": "Francja",
     "tag": "Europa",
-    "text": "Francja urzeka bogactwem dziedzictwa i krajobrazów – od ikonicznych zabytków pośród miejskiego zgiełku po zaciszne wioski, winiarskie doliny i błękitne wybrzeża skąpane w słońcu.",
+    "text": "Francja zachwyca różnorodnością – od słynnych zabytków tętniących życiem miast po spokojne wioski, zielone doliny winiarskie i słoneczne wybrzeża tonące w błękicie.",
     "img": "/images/france.png",
     "title": "Poznaj ukryte piękno Francji",
     "subtitle": "Odkryj jej historię, smaki i krajobrazy – od romantycznych ulic Paryża po majestatyczne Alpy i słoneczną Prowansję.",
@@ -102,7 +102,7 @@
   {
     "country": "Japonia",
     "tag": "Azja",
-    "text": "W Japonii historia i nowoczesność idą w parze – świątynne ogrody sąsiadują z neonowymi ulicami Tokio.",
+    "text": "W Japonii tradycja spotyka się z nowoczesnością – spokojne ogrody świątyń kontrastują z pulsującymi światłem ulicami Tokio.",
     "img": "/images/japan.png",
     "title": "Odkryj harmonię Japonii",
     "subtitle": "Od spokojnych ogrodów Kioto po pulsujące światła Tokio — kraj, gdzie przeszłość i przyszłość żyją w równowadze.",
@@ -168,7 +168,7 @@
   {
     "country": "Brazylia",
     "tag": "Ameryka Południowa",
-    "text": "Brazylia oczarowuje pasją, plażami i zielonym sercem dżungli – Amazonią.",
+    "text": "Brazylia zachwyca energią, złocistymi plażami i dzikim rytmem amazońskiej dżungli.",
     "img": "/images/brazil.png",
     "title": "Brazylia — energia i pasja",
     "subtitle": "Od Rio po Amazonię, poczuj puls życia i magię tropików.",

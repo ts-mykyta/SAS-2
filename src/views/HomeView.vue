@@ -9,7 +9,7 @@ import AppDestinations from '@/components/AppDestinations.vue'
 import AppActivities from '@/components/AppActivities.vue'
 import AppPriceCalendar from '@/components/AppPriceCalendar.vue'
 
-useHead({ title: 'Twoja podróż czeka na Ciebie' })
+useHead({ title: 'Twoja przygoda już na Ciebie czeka' })
 </script>
 
 <template>
@@ -22,8 +22,8 @@ useHead({ title: 'Twoja podróż czeka na Ciebie' })
         <!-- Promo section -->
         <AppPromo
           imageUrl="/images/home-promo.png"
-          title="Otwórz Nową Podróż"
-          subtitle="Porównuj i wybieraj najlepsze oferty lotów oraz podróży dzięki naszej intuicyjnej platformie."
+          title="Rozpocznij swoją kolejną przygodę!"
+          subtitle="Porównuj i odkrywaj najciekawsze oferty lotów i podróży dzięki naszej wygodnej, intuicyjnej platformie."
         />
 
         <!-- Country section -->
@@ -34,8 +34,8 @@ useHead({ title: 'Twoja podróż czeka na Ciebie' })
 
         <!-- Services -->
         <AppActivities
-          title="Najczęściej wybierane atrakcje"
-          subtitle="Poznaj fascynujące przeżycia i pełne emocji aktywności, które sprawią, że każda podróż stanie się wyjątkowa."
+          title="Najpopularniejsze atrakcje"
+          subtitle="Odkrywaj niezwykłe doświadczenia i ekscytujące aktywności, które dodadzą Twojej podróży niezapomnianych emocji i wyjątkowego charakteru."
         />
       </main>
 

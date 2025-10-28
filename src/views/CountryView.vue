@@ -29,8 +29,8 @@ onMounted(() => {})
 
 useHead(() => ({
   title: country.value
-    ? `${country.value.country} - Twoja podróż czeka na Ciebie`
-    : 'Twoja podróż czeka na Ciebie',
+    ? `${country.value.country} - Twoja przygoda już na Ciebie czeka`
+    : 'Twoja przygoda już na Ciebie czeka',
 }))
 
 const activeTab = ref('overview')

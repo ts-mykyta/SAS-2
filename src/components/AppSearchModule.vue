@@ -293,9 +293,9 @@ onMounted(() => {
     >
       <div class="text-center mb-8">
         <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-          Zaplanuj niezapomnianą podróż
+          Zaplanuj podróż, której długo nie zapomnisz
         </h2>
-        <p class="text-gray-600 text-lg">Zanurz się w niezwykłych podróżach i doświadczeniach</p>
+        <p class="text-gray-600 text-lg">Wyrusz w świat pełen emocji, odkryć i wyjątkowych wspomnień.</p>
       </div>
       <div class="w-full">
         <div class="relative">

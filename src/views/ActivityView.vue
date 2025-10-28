@@ -29,8 +29,8 @@ onMounted(() => {})
 
 useHead(() => ({
   title: activity.value
-    ? `${activity.value.activity} - Twoja podróż czeka na Ciebie`
-    : 'Twoja podróż czeka na Ciebie',
+    ? `${activity.value.activity} - Twoja przygoda już na Ciebie czeka`
+    : 'Twoja przygoda już na Ciebie czeka',
 }))
 
 const activeTab = ref('overview')

@@ -24,10 +24,10 @@
                   d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"
                 ></path>
               </svg>
-              <span class="text-xl font-bold text-theme-primary">MYTRIPSPOLAND</span>
+              <span class="text-xl font-bold text-theme-primary">JourneyPoland</span>
             </div>
             <p class="text-muted-foreground text-sm leading-relaxed">
-              Z nami każda podróż staje się wyjątkowa. Wybieramy tylko najlepsze miejsca i atrakcje, aby zapewnić Ci wspomnienia, które pozostaną z Tobą na zawsze.
+              Z nami każda podróż nabiera wyjątkowego znaczenia. Starannie wybieramy miejsca i atrakcje, by podarować Ci wspomnienia, które zostaną na długo.
             </p>
           </div>
           <div>
@@ -178,7 +178,7 @@
         ></div>
         <div class="flex flex-col sm:flex-row justify-between items-center gap-4">
           <p class="text-xs text-muted-foreground text-center sm:text-left">
-            © 2025 MyTripsPoland. Wszelkie prawa zastrzeżone.
+            © 2025 JourneyPoland. Wszystkie prawa zastrzeżone.
           </p>
           <div class="flex items-center gap-4 text-xs text-muted-foreground">
             <span class="flex items-center gap-1">
