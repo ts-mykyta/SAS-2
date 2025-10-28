@@ -56,10 +56,10 @@ function tagBtnClass(tag) {
       <div class="container">
         <div class="text-center mb-12">
           <h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-900 dark:text-white">
-            Popularne Kierunki Podróży
+            Najpopularniejsze Kierunki Podróży
           </h2>
           <p class="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-6">
-            Od złocistych plaż po architektoniczne cuda – odkrywaj miejsca, które inspirują, zachwycają i sprawiają, że każda podróż staje się wyjątkowa.
+            Od słonecznych plaż po zachwycające dzieła architektury – odkrywaj miejsca, które inspirują i sprawiają, że każda wyprawa jest naprawdę wyjątkowa.
           </p>
         </div>
 
@@ -133,7 +133,7 @@ function tagBtnClass(tag) {
 
         <div v-if="props?.isBtnShow" class="text-center mt-12">
           <router-link to="/destinations" class="inline-flex items-center px-6 py-3 bg-primary text-white font-medium rounded-lg hover:bg-primary/90 transition-colors duration-200" data-discover="true">
-            Odkryj pełną listę destynacji
+            Odkryj całą listę kierunków
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right w-5 h-5 ml-2" aria-hidden="true">
               <path d="M5 12h14"></path>
               <path d="m12 5 7 7-7 7"></path>

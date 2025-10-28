@@ -14,7 +14,7 @@ const CountryView = () => import('@/views/CountryView.vue')
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
-    { path: '/', name: 'home', component: HomeView, meta: { title: 'Twoja podróż czeka na Ciebie' } },
+    { path: '/', name: 'home', component: HomeView, meta: { title: 'Twoja przygoda już na Ciebie czeka' } },
 
     { path: '/destinations', name: 'destinations', component: DestinationsView, meta: { title: 'Podróżuj Tam, Gdzie Zaczyna Się Przygoda' } },
 
@@ -57,7 +57,7 @@ const router = createRouter({
 })
 
 router.afterEach((to) => {
-  const defaultTitle = 'Twoja podróż czeka na Ciebie'
+  const defaultTitle = 'Twoja przygoda już na Ciebie czeka'
   document.title = to.meta.title || defaultTitle
 })
 

@@ -65,7 +65,7 @@ const goToPriceCalendar = async () => {
                 d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"
               ></path>
             </svg>
-            <span class="text-white font-semibold text-sm">Odkrycie Nieznane</span>
+            <span class="text-white font-semibold text-sm">Poznaj Nieznane</span>
           </div>
           <h1
             class="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-black leading-none text-white mb-8 tracking-tight"
@@ -87,7 +87,7 @@ const goToPriceCalendar = async () => {
               class="bg-gradient-to-br from-primary/25 to-secondary/25 backdrop-blur-md rounded-2xl p-8 border border-primary/30 shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105"
             >
               <div class="text-center">
-                <h3 class="text-2xl font-bold text-white mb-6">Gotowi, by poznawać świat?</h3>
+                <h3 class="text-2xl font-bold text-white mb-6">Gotowi na odkrywanie świata?</h3>
                 <div class="flex justify-center">
                   <button
                     @click="goToPriceCalendar"
@@ -113,7 +113,7 @@ const goToPriceCalendar = async () => {
                       <rect width="18" height="18" x="3" y="4" rx="2"></rect>
                       <path d="M3 10h18"></path>
                     </svg>
-                    Kalendarz Cen Lotów
+                    Sprawdź nasz Kalendarz Okazji Lotniczych
                   </button>
                 </div>
               </div>
@@ -149,10 +149,10 @@ const goToPriceCalendar = async () => {
           <div class="relative z-10 py-16 lg:py-20">
             <div class="text-center mb-12">
               <h2 class="text-4xl lg:text-5xl font-bold text-white mb-4">
-                Dlaczego warto wybrać właśnie nas
+                Dlaczego warto podróżować z nami
               </h2>
               <p class="text-xl text-secondary max-w-2xl mx-auto">
-                Doświadcz łatwego planowania podróży z naszą innowacyjną usługą.
+                Poczuj wygodę i prostotę planowania dzięki naszej nowoczesnej, intuicyjnej usłudze.
               </p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -178,9 +178,9 @@ const goToPriceCalendar = async () => {
                     ></path>
                   </svg>
                 </div>
-                <h3 class="text-xl font-bold text-white mb-3">Niezrównana Jakość</h3>
+                <h3 class="text-xl font-bold text-white mb-3">Wyjątkowa Jakość</h3>
                 <p class="text-secondary text-sm leading-relaxed">
-                  Gwiezdne ekspedycje i górskie przygody
+                  Podróże wśród gwiazd i niezapomniane przygody w górach
                 </p>
               </div>
               <div class="text-center group">
@@ -206,8 +206,8 @@ const goToPriceCalendar = async () => {
                     <path d="M3 10h18"></path>
                   </svg>
                 </div>
-                <h3 class="text-xl font-bold text-white mb-3">Wsparcie 24/7</h3>
-                <p class="text-secondary text-sm leading-relaxed">Pomoc w każdej podróżniczej sytuacji</p>
+                <h3 class="text-xl font-bold text-white mb-3">Pomoc 24/7</h3>
+                <p class="text-secondary text-sm leading-relaxed">Jesteśmy z Tobą w każdej chwili Twojej podróży</p>
               </div>
               <div class="text-center group">
                 <div
@@ -232,9 +232,9 @@ const goToPriceCalendar = async () => {
                     <circle cx="12" cy="10" r="3"></circle>
                   </svg>
                 </div>
-                <h3 class="text-xl font-bold text-white mb-3">Światowa Skala</h3>
+                <h3 class="text-xl font-bold text-white mb-3">Światowy Zasięg</h3>
                 <p class="text-secondary text-sm leading-relaxed">
-                  Podróże i przygody na całym świecie
+                  Podróże i przygody na całym globie
                 </p>
               </div>
               <div class="text-center group">
@@ -262,7 +262,7 @@ const goToPriceCalendar = async () => {
                 </div>
                 <h3 class="text-xl font-bold text-white mb-3">Oferty Premium</h3>
                 <p class="text-secondary text-sm leading-relaxed">
-                  Wyjątkowe ceny i ekskluzywne okazje
+                  Niepowtarzalne ceny i wyjątkowe propozycje
                 </p>
               </div>
             </div>
