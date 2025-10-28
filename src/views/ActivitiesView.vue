@@ -63,8 +63,8 @@ useHead({ title: 'Aktywności – Spektakularne Doświadczenia' })
         <!-- Promo section -->
         <AppPromo
           imageUrl="/images/home-promo.png"
-          title="Odkryj Niezapomniane Przygody na Całym Świecie"
-          subtitle="Odkryj wyjątkowe chwile – od smaków lokalnej kuchni po emocjonujące przygody na łonie natury. Wybierz aktywności, które sprawią, że Twoja podróż będzie naprawdę niezapomniana."
+          title="Poznaj Niezapomniane Przygody na Całym Świecie"
+          subtitle="Przeżyj wyjątkowe momenty – od smaków lokalnych potraw po ekscytujące spotkania z naturą. Wybierz doświadczenia, które uczynią Twoją podróż naprawdę wyjątkową."
         />
 
         <!-- activities -->
@@ -72,11 +72,10 @@ useHead({ title: 'Aktywności – Spektakularne Doświadczenia' })
           <div class="container mx-auto px-4">
             <div class="mb-8">
               <h2 class="text-3xl md:text-4xl font-bold mb-4 text-foreground">
-                Odkryj Spektakularne Doświadczenia
+                Poznaj Spektakularne Doświadczenia
               </h2>
               <p class="text-muted-foreground max-w-4xl">
-                Odkryj niezapomniane przygody na całym świecie. Dostosuj filtry, aby znaleźć
-                aktywności odpowiadające Twoim zainteresowaniom.
+                Wyrusz na niezapomniane przygody w każdym zakątku świata. Użyj filtrów, by odkryć aktywności idealnie dopasowane do Twoich pasji.
               </p>
             </div>
 
