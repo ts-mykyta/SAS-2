@@ -1,0 +1,802 @@
+[
+    {
+        "activity": "Wizyta W Muzeum",
+        "countries": ["Francja", "Włochy"],
+        "text": "Zanurz się w świecie sztuki i historii, spacerując po imponujących galeriach pełnych niezwykłych dzieł. Podziwiaj arcydzieła, odkrywaj sekrety przeszłości i pozwól, by każda wystawa opowiedziała Ci własną, fascynującą historię.",
+        "img": "/images/museum.png",
+        "title": "Odkryj Muzealne Przygody",
+        "subtitle": "Pozwól, by każde muzeum stało się bramą do innej epoki. Delektuj się pięknem, odkrywaj tajemnice i przeżywaj momenty, które ożywiają historię i sztukę.",
+        "description": "Wejdź do świata odkryć i zachwytu dzięki niezwykłej Wizycie w Muzeum, gdzie starożytności, arcydzieła i nowoczesne instalacje spotykają się pod jednym dachem. Przemierzaj rozległe galerie i kameralne zakątki, z których każdy został starannie zaprojektowany, by opowiedzieć historię dawnych i współczesnych cywilizacji. Od starożytnych reliktów szepczących echa minionych epok po współczesne dzieła sztuki pobudzające wyobraźnię — każda sala to podróż w czasie, łącząca naukę, emocje i inspirację. Interaktywne tablice i ekrany multimedialne zachęcają do głębszego poznania kontekstu historycznego i artystycznego, czyniąc zwiedzanie angażującym doświadczeniem. Idealna dla rodzin, grup i samotnych odkrywców, Wizyta w Muzeum łączy swobodę eksploracji z przyjemnością nauki. Zatrzymaj się w pełnych atmosfery korytarzach otoczonych marmurowymi kolumnami, posłuchaj przewodnika audio, który ożywia każdy eksponat, i odpocznij przy filiżance kawy w muzealnej kawiarni z widokiem na dziedziniec. Niezależnie od tego, czy podziwiasz pociągnięcia pędzla renesansowego arcydzieła, czy odkrywasz tajemnice archeologii, każda chwila spędzona w muzeum otwiera nową perspektywę i budzi ciekawość świata.",
+        "aboutActivity": "Wizyta w Muzeum to podróż przez sztukę, historię i naukę w jednym miejscu. Zwiedzający mogą podziwiać starożytne relikty, arcydzieła renesansu i nowoczesne instalacje multimedialne, które pobudzają wyobraźnię. Interaktywne ekspozycje i przewodniki audio sprawiają, że każde odkrycie staje się angażującym doświadczeniem. Wśród marmurowych sal i eleganckich galerii można znaleźć chwilę refleksji przy filiżance kawy w muzealnej kawiarni. To idealna aktywność dla rodzin, miłośników kultury i wszystkich, którzy pragną odkrywać świat z ciekawością.",
+        "duration": "2-4 godziny",
+        "groupSize": "Solo lub grupy",
+        "minAge": "0",
+        "highlights": [
+        "Różnorodne stałe kolekcje obejmujące sztukę, historię i naukę",
+        "Interaktywne eksponaty multimedialne i przewodniki audio",
+        "Rotacyjne tymczasowe wystawy prezentujące wschodzących artystów",
+        "Przyjazne rodzinom ścieżki odkrywcze i zestawy aktywności",
+        "Architektonicznie znaczące galerie i spokojna przestrzeń kawiarni",
+        "Darmowe WiFi i cyfrowe przewodniki dostępne na terenie całego obiektu"
+        ],
+        "bestTime": "Poranki w dni powszednie lub późne popołudnia",
+        "includes": [
+        "Bilet wstępu ogólnego",
+        "Przenośny audioprzewodnik w wielu językach",
+        "Szczegółowa mapa muzeum i broszura dotycząca ekspozycji",
+        "Dostęp do galerii stałych i czasowych",
+        "Szafki na rzeczy osobiste",
+        "Kawiarnia muzealna z miejscami do siedzenia"
+        ],
+        "notIncludes": [
+        "Opłaty parkingowe (może obowiązywać opłata za parking na miejscu)",
+        "Dodatkowa opłata za wystawę specjalną (jeśli dotyczy)",
+        "Wycieczka z przewodnikiem dla grup (dostępna za dodatkową opłatą)",
+        "Osobiste zakupy i pamiątki"
+        ],
+        "difficulty": "Easy",
+        "price": "$10-25",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Dominik N.",
+                "text": "Wszystko przebiegło zgodnie z oczekiwaniami. Miejsce spokojne, dobrze zorganizowane i czyste. Warto było poświęcić chwilę na wizytę."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Ewelina J.",
+                "text": "Dobre doświadczenie, bez pośpiechu i chaosu. Obsługa działała sprawnie. Całość pozostawiła neutralne, ale pozytywne wrażenie."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Adrian O.",
+                "text": "Czas spędzony w tym miejscu był przyjemny. Wszystko funkcjonowało bez zarzutu. Organizacja na odpowiednim poziomie."
+            }
+        ]
+    },
+    {
+        "activity": "Dzień Na Plaży",
+        "countries": ["Brazylia", "Tajlandia", "Australia"],
+        "text": "Beach Day to pełne słońca nadmorskie doświadczenie — czas relaksu, śmiechu i dobrej energii. Odpocznij na miękkim piasku, zanurz się w przejrzystych wodach i ciesz się letnią atmosferą w gronie najbliższych.",
+        "img": "/images/beach.png",
+        "title": "Słoneczny Relaks Na Plaży",
+        "subtitle": "Odpocznij na złotym piasku, wsłuchując się w szum fal i ciesząc ciepłem promieni słońca.",
+        "description": "Dzień Na Plaży oferuje relaksujące i pełne radości doświadczenie dla każdego. Ciesz się słońcem, sportami wodnymi, grami plażowymi i spokojnymi spacerami wzdłuż brzegu. To idealna chwila, by oderwać się od codzienności, nabrać energii i spędzić czas z bliskimi w atmosferze beztroski.",
+        "aboutActivity": "Dzień Na Plaży to doskonała okazja, by poczuć prawdziwy wakacyjny klimat i cieszyć się naturą. Ciepłe promienie słońca, delikatny szum fal i miękki piasek tworzą idealne warunki do odpoczynku. Na plaży można spróbować różnych sportów wodnych, zagrać w siatkówkę lub po prostu spacerować wzdłuż brzegu. To miejsce, gdzie każda chwila przynosi spokój, radość i niezapomniane wspomnienia.",
+        "duration": "4-8 godzin",
+        "groupSize": "Solo, przyjaciele lub rodzina",
+        "minAge": "0",
+        "highlights": [
+        "Złote piaski i krystalicznie czysta woda",
+        "Sporty wodne i możliwość pływania",
+        "Możliwość pikniku i relaksu na plaży",
+        "Przyjazne rodzinom strefy do zabaw",
+        "Widoki zachodzącego słońca nad wodą",
+        "Dostęp do lokalnych restauracji i barów plażowych"
+        ],
+        "bestTime": "Poranki i popołudnia w słoneczne dni",
+        "includes": [
+        "Dostęp do plaży",
+        "Leżaki i parasole (jeśli dostępne)",
+        "Bezpłatne WiFi w strefach plażowych",
+        "Strefy do gier i rekreacji",
+        "Dostęp do lokalnych punktów gastronomicznych"
+        ],
+        "notIncludes": [
+        "Transport na plażę",
+        "Sprzęt do sportów wodnych (możliwość wypożyczenia)",
+        "Posiłki i napoje",
+        "Ubezpieczenie osobiste"
+        ],
+        "difficulty": "Easy",
+        "price": "$5-20",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Sylwia G.",
+                "text": "Wizyta przebiegła bez problemów. Miejsce zadbane i spokojne, atmosfera sprzyjała odpoczynkowi."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Michał W.",
+                "text": "Nie było tłoku, co pozwoliło spokojnie cieszyć się chwilą. Widać, że obsługa dba o porządek i wygodę odwiedzających."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Ola C.",
+                "text": "Całość zorganizowana w sposób przejrzysty i spokojny. Niczego nie brakowało, wszystko przebiegło naturalnie."
+            }
+        ]
+    },
+    {
+        "activity": "Wycieczka Po Mieście",
+        "countries": ["Francja", "Japonia", "Włochy"],
+        "text": "Rozpocznij przygodę po mieście, przemierzając tętniące życiem ulice i pełne charakteru dzielnice. Odkrywaj lokalne tradycje, historyczne zabytki i nieoczywiste zakątki, które nadają miastu jego wyjątkowy rytm i duszę.",
+        "img": "/images/bustour.png",
+        "title": "Odkryj Miasto Pełne Historii",
+        "subtitle": "Zwiedzaj tętniące życiem ulice, podziwiaj zabytki i poznawaj lokalne tradycje. Każdy zakątek miasta kryje opowieść, która czeka, by ją odkryć.",
+        "description": "Wycieczka Po Mieście to doskonała okazja, aby zobaczyć najważniejsze atrakcje oraz poznać lokalną kulturę i tradycje. Przemierzaj brukowane ulice, odkrywaj lokalne sklepy, galerie i kawiarnie, a także korzystaj z przewodników audio, które dostarczą ciekawostek i informacji historycznych.",
+        "aboutActivity": "Wycieczka Po Mieście pozwala zanurzyć się w jego wyjątkowej atmosferze i odkryć jego prawdziwe oblicze. Spacerując ulicami, można podziwiać architekturę, odwiedzać zabytki oraz poznać codzienne życie mieszkańców. To świetna okazja, by spróbować lokalnych specjałów, zajrzeć do klimatycznych kawiarni i galerii sztuki. Każdy krok odkrywa nową historię, dzięki czemu zwiedzanie staje się inspirującą podróżą w czasie.",
+        "duration": "3-5 godzin",
+        "groupSize": "Solo, grupy lub rodziny",
+        "minAge": "0",
+        "highlights": [
+        "Zwiedzanie zabytków i historycznych miejsc",
+        "Przewodniki audio i mapy tras",
+        "Lokalne restauracje i kawiarnie",
+        "Ukryte atrakcje i miejsca znane tylko lokalnym",
+        "Możliwość personalizacji trasy",
+        "Dostępność dla wszystkich grup wiekowych"
+        ],
+        "bestTime": "Poranki lub późne popołudnia",
+        "includes": [
+        "Mapa miasta",
+        "Przewodnik audio",
+        "Dostęp do głównych atrakcji",
+        "Rekomendacje lokalnych restauracji",
+        "Wsparcie podczas planowania trasy"
+        ],
+        "notIncludes": [
+        "Transport miejski",
+        "Bilety wstępu do niektórych atrakcji",
+        "Posiłki i napoje",
+        "Pamiątki"
+        ],
+        "difficulty": "Easy",
+        "price": "$15-40",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Łukasz E.",
+                "text": "Wrażenia raczej neutralne, ale pozytywne. Dobre miejsce, by spędzić trochę czasu bez pośpiechu."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Julia D.",
+                "text": "Obsługa była uprzejma, a otoczenie czyste i estetyczne. Nie ma się do czego przyczepić."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Patryk F.",
+                "text": "Było dokładnie tak, jak opisano. Dobre tempo, spokojna atmosfera, niczego nie brakowało."
+            }
+        ]
+    },
+    {
+        "activity": "Przygoda Wędrówkowa",
+        "countries": ["Nowa Zelandia", "Kanada", "Peru"],
+        "text": "Wyrusz na pełną emocji wędrówkę pieszą przez górskie szlaki, zielone doliny i zapierające dech panoramy. Odkrywaj ukryte wodospady, spotykaj dzikie zwierzęta i pozwól, by natura stała się Twoim towarzyszem w tej niezapomnianej przygodzie.",
+        "img": "/images/hiking.png",
+        "title": "Górskie Wędrówki i Naturalne Piękno",
+        "subtitle": "Wyrusz na szlak i odkryj majestatyczne widoki, czyste powietrze oraz spokój natury, który inspiruje i dodaje energii.",
+        "description": "Przygoda Wędrówkowa łączy aktywny wypoczynek z odkrywaniem natury. Podążaj górskimi szlakami, odkrywaj ukryte wodospady, obserwuj dzikie zwierzęta i podziwiaj panoramy z malowniczych punktów widokowych. To idealna propozycja dla osób w każdym wieku, które chcą aktywnie spędzić czas na świeżym powietrzu i poczuć prawdziwą bliskość natury.",
+        "aboutActivity": "Przygoda Wędrówkowa to idealna propozycja dla miłośników natury i ruchu na świeżym powietrzu. Wędrując malowniczymi szlakami, można podziwiać górskie krajobrazy, wodospady i dziką przyrodę. To doskonała okazja, by odetchnąć od miejskiego zgiełku i zrelaksować się wśród zieleni. Każdy krok przynosi nowe odkrycia i poczucie wolności, które na długo pozostaje w pamięci.",
+        "duration": "4-6 godzin",
+        "groupSize": "Solo lub grupy",
+        "minAge": "6",
+        "highlights": [
+        "Panoramiczne widoki gór i lasów",
+        "Spotkania z dziką fauną",
+        "Ukryte wodospady i naturalne źródła",
+        "Szlaki o różnym poziomie trudności",
+        "Przyjazne dla rodzin i początkujących wędrowców",
+        "Możliwość fotografowania i odpoczynku w malowniczych miejscach"
+        ],
+        "bestTime": "Poranki lub popołudnia w pogodny dzień",
+        "includes": [
+        "Mapa szlaków i trasa wycieczki",
+        "Przewodnik lokalny lub aplikacja mobilna",
+        "Podstawowe wskazówki bezpieczeństwa",
+        "Punkty odpoczynku i schronienia",
+        "Informacje o lokalnej faunie i florze"
+        ],
+        "notIncludes": [
+        "Transport do punktu startowego",
+        "Sprzęt trekkingowy (możliwość wypożyczenia)",
+        "Posiłki i napoje",
+        "Ubezpieczenie osobiste"
+        ],
+        "difficulty": "Medium",
+        "price": "$20-50",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Alicja T.",
+                "text": "Doświadczenie przebiegło płynnie i bez stresu. Wszystko dobrze przygotowane, z zachowaniem porządku."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Kamil P.",
+                "text": "Doświadczenie było dobrze zorganizowane. Wszystko przebiegło spokojnie i bez pośpiechu. Atmosfera sprzyjała relaksowi."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Marta K.",
+                "text": "Ciekawe miejsce, które warto odwiedzić. Dobrze przygotowane i zadbane, widać dbałość o szczegóły."
+            }
+        ]
+    },
+    {
+        "activity": "Degustacja Potraw",
+        "countries": ["Japonia", "Włochy", "Tajlandia"],
+        "text": "Poznaj autentyczne smaki regionu, próbując lokalnych specjałów, przekąsek i napojów. Z pomocą doświadczonych gospodarzy odkryjesz kulinarne perełki, poznasz historię potraw i zanurzysz się w kulturze poprzez smak.",
+        "img": "/images/degustation.png",
+        "title": "Kulinarne Podróże i Degustacje",
+        "subtitle": "Odkryj lokalne smaki, próbując tradycyjnych potraw i poznając historie, które kryją się za każdym daniem.",
+        "description": "Degustacja Potraw pozwala odkryć lokalną kulturę poprzez smak i aromat. Podczas wycieczki kulinarnej odwiedzisz targi, restauracje i ukryte perełki gastronomiczne, poznając autentyczne oblicze regionu. Przewodnicy kulinarni zaprezentują regionalne składniki, tradycyjne techniki i opowiedzą historie stojące za potrawami. To doskonałe doświadczenie zarówno dla rodzin, jak i pasjonatów dobrego jedzenia.",
+        "aboutActivity": "Degustacja Potraw to wyjątkowa podróż przez smaki i aromaty regionu. Uczestnicy mają okazję poznać tradycyjne receptury, spróbować lokalnych specjałów i odkryć sekrety miejscowej kuchni. Wizyta na targach i w kameralnych restauracjach pozwala lepiej zrozumieć kulturę i codzienne życie mieszkańców. To niezapomniane doświadczenie, które łączy przyjemność jedzenia z odkrywaniem historii i tradycji.",
+        "duration": "2-4 godziny",
+        "groupSize": "Solo lub grupy",
+        "minAge": "3",
+        "highlights": [
+        "Spróbuj lokalnych przysmaków i potraw",
+        "Poznaj tradycyjne metody przygotowania",
+        "Odwiedź lokalne targi i restauracje",
+        "Interaktywne doświadczenie kulinarne",
+        "Możliwość poznania regionalnych napojów",
+        "Doświadczenie odpowiednie dla całej rodziny"
+        ],
+        "bestTime": "Południa i wczesne popołudnia",
+        "includes": [
+        "Degustacja potraw",
+        "Przewodnik kulinarny",
+        "Informacje o lokalnych składnikach",
+        "Materiały edukacyjne o kuchni regionu",
+        "Mini warsztaty przygotowania potraw"
+        ],
+        "notIncludes": [
+        "Transport na miejsce degustacji",
+        "Napoje alkoholowe (poza degustacją wina)",
+        "Pamiątki i zakupy osobiste"
+        ],
+        "difficulty": "Easy",
+        "price": "$25-60",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Tomasz Z.",
+                "text": "Całość zrobiła pozytywne wrażenie. Obsługa była uprzejma, a organizacja na wysokim poziomie."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Natalia R.",
+                "text": "Przebiegło wszystko zgodnie z planem. Dobre wrażenie pozostaje po całym doświadczeniu."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Paweł M.",
+                "text": "Miejsce jest czyste i spokojne. Można tu miło spędzić czas, niezależnie od pory dnia."
+            }
+        ]
+    },
+    {
+        "activity": "Safari Dzikiej Przyrody",
+        "countries": ["Kenia"],
+        "text": "Wyrusz na fascynujące safari i podziwiaj majestatyczne zwierzęta w ich naturalnym środowisku. Przemierzaj sawanny, bagna i lasy, obserwując niezwykłe gatunki w ich codziennym rytmie życia – to spotkanie, którego nie zapomnisz.",
+        "img": "/images/safari.png",
+        "title": "Safari w Sercu Dzikiej Przyrody",
+        "subtitle": "Obserwuj dzikie zwierzęta w ich naturalnym otoczeniu i odkrywaj bogactwo afrykańskich ekosystemów podczas niezapomnianej przygody na sawannie.",
+        "description": "Safari Dzikiej Przyrody to pełna emocji podróż przez kenijskie parki narodowe. Obserwuj lwy, słonie, żyrafy i wiele innych gatunków w ich naturalnym środowisku. Doświadczeni przewodnicy przybliżą ci świat dzikiej przyrody, opowiadając o jej ochronie i unikalnych ekosystemach. To niezapomniane przeżycie dla wszystkich miłośników natury i przygody.",
+        "aboutActivity": "Safari Dzikiej Przyrody to niezapomniana wyprawa w serce afrykańskiej natury. Uczestnicy mają okazję zobaczyć majestatyczne zwierzęta z bliska i doświadczyć niezwykłej harmonii dzikiego świata. Profesjonalni przewodnicy dzielą się wiedzą o ekosystemach, zwyczajach zwierząt i ochronie środowiska. To przygoda, która łączy emocje, naukę i zachwyt nad pięknem natury, pozostawiając wspomnienia na całe życie.",
+        "duration": "5-8 godzin",
+        "groupSize": "Grupy lub rodziny",
+        "minAge": "5",
+        "highlights": [
+        "Obserwacja dzikich zwierząt w naturalnym środowisku",
+        "Przewodnicy eksperci z wiedzą o ekosystemie",
+        "Fotograficzne punkty widokowe",
+        "Safari w komfortowych pojazdach terenowych",
+        "Możliwość obserwowania rzadkich gatunków",
+        "Doświadczenie edukacyjne dla wszystkich grup wiekowych"
+        ],
+        "bestTime": "Wczesne poranki i późne popołudnia",
+        "includes": [
+        "Przejazd pojazdem safari",
+        "Przewodnik lokalny",
+        "Mapa i plan trasy safari",
+        "Lekki posiłek i napoje",
+        "Informacje edukacyjne o faunie"
+        ],
+        "notIncludes": [
+        "Transport do parku narodowego",
+        "Opłaty za wstęp do niektórych rezerwatów",
+        "Osobiste wydatki"
+        ],
+        "difficulty": "Medium",
+        "price": "$80-150",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Anna L.",
+                "text": "Wrażenia raczej pozytywne. Widać, że zadbano o komfort uczestników i porządek."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Jakub S.",
+                "text": "Dobrze zorganizowane i przyjemne doświadczenie. Nie było tłoku, a atmosfera była swobodna."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Karolina B.",
+                "text": "Czas spędzony w tym miejscu minął przyjemnie. Wszystko wyglądało zgodnie z opisem."
+            }
+        ]
+    },
+    {
+        "activity": "Degustacja Wina",
+        "countries": ["Francja", "Włochy", "Australia"],
+        "text": "Odkryj sztukę wina w malowniczych winnicach podczas prowadzonych degustacji. Skosztuj regionalnych szczepów, poznaj tradycje winiarskie i udoskonal swoje podniebienie w inspirującym doświadczeniu dla miłośników smaku i podróży.",
+        "img": "/images/wine-tasting.png",
+        "title": "Degustacja Win i Winnicze Doświadczenia",
+        "subtitle": "Odwiedź malownicze winnice, poznaj proces tworzenia wina i skosztuj lokalnych szczepów w atmosferze relaksu i pasji.",
+        "description": "Degustacja Wina to wyjątkowe doświadczenie łączące pasję, smak i kulturę. Odwiedzaj malownicze winnice, poznaj historię regionu, techniki produkcji oraz sztukę degustacji. Odkrywaj bogactwo aromatów lokalnych szczepów i weź udział w warsztatach prowadzonych przez doświadczonych sommelierów. To idealna okazja, by poczuć prawdziwego ducha winiarskiej tradycji.",
+        "aboutActivity": "Degustacja Wina to elegancka podróż po świecie aromatów, smaków i tradycji winiarskich. Podczas wizyty w malowniczych winnicach uczestnicy poznają proces tworzenia wina – od zbioru winogron po dojrzewanie w beczkach. To doskonała okazja, by spróbować unikalnych lokalnych szczepów i dowiedzieć się, jak prawidłowo degustować wino. Spotkania z winiarzami i sommelierami dodają wydarzeniu autentyczności i wyjątkowego charakteru.",
+        "duration": "2-4 godziny",
+        "groupSize": "Solo lub grupy",
+        "minAge": "18",
+        "highlights": [
+        "Degustacja lokalnych win i regionalnych szczepów",
+        "Wizyta w malowniczych winnicach",
+        "Poznanie historii i tradycji winiarskich",
+        "Warsztaty z sommelierem",
+        "Możliwość zakupu wina bezpośrednio od producenta",
+        "Dostęp do panoramicznych punktów widokowych winnicy"
+        ],
+        "bestTime": "Popołudnia w dni powszednie lub weekendy",
+        "includes": [
+        "Degustacja kilku rodzajów win",
+        "Przewodnik po winnicy",
+        "Informacje o szczepach i regionie",
+        "Materiały edukacyjne",
+        "Lekki poczęstunek"
+        ],
+        "notIncludes": [
+        "Transport do winnicy",
+        "Alkohol spożywany poza degustacją",
+        "Pamiątki i osobiste zakupy"
+        ],
+        "difficulty": "Easy",
+        "price": "$30-70",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Piotr D.",
+                "text": "Dobra organizacja i spokojna atmosfera. Miejsce spełniło oczekiwania, bez większych zastrzeżeń."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Magda W.",
+                "text": "Ogólne wrażenie neutralne, ale pozytywne. Widać, że wszystko zostało przygotowane z myślą o odwiedzających."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Konrad K.",
+                "text": "Wszystko było dobrze zorganizowane. Czas spędzony w spokojnej atmosferze, bez pośpiechu. Ogólnie pozytywne wrażenie."
+            }
+        ]
+    },
+    {
+        "activity": "Dzień SPA",
+        "countries": ["Japonia", "Tajlandia"],
+        "text": "Podaruj sobie chwilę pełną ukojenia i regeneracji. Doświadcz relaksu w aromatycznych masażach, gorących kąpielach i spokojnym otoczeniu, które przywraca równowagę ciała, umysłu i ducha.",
+        "img": "/images/spa.png",
+        "title": "Relaks i Odnowa w Spa",
+        "subtitle": "Zanurz się w świecie spokoju i harmonii, korzystając z odprężających zabiegów i aromatycznych rytuałów w eleganckim otoczeniu.",
+        "description": "Dzień SPA to doskonała okazja, by uwolnić się od codziennego stresu i odzyskać równowagę. Skorzystaj z masaży, zabiegów pielęgnacyjnych, relaksujących kąpieli i aromaterapii w luksusowej atmosferze. To idealny sposób na regenerację ciała i umysłu — zarówno dla osób indywidualnych, jak i dla par.",
+        "aboutActivity": "Dzień SPA to chwila pełna spokoju, luksusu i troski o siebie. W otoczeniu relaksującej muzyki i zapachu olejków eterycznych możesz zanurzyć się w świecie odprężenia. Profesjonalne masaże, zabiegi pielęgnacyjne i aromaterapia pomogą odzyskać równowagę ciała i ducha. To wyjątkowe doświadczenie, które przynosi ukojenie i odnowę, idealne dla każdego, kto pragnie chwil wytchnienia od codzienności.",
+        "duration": "3-5 godzin",
+        "groupSize": "Solo, pary lub grupy",
+        "minAge": "12",
+        "highlights": [
+        "Różnorodne masaże i zabiegi relaksacyjne",
+        "Sauny, baseny z gorącymi kamieniami i jacuzzi",
+        "Aromaterapia i zabiegi kosmetyczne",
+        "Spokojne otoczenie i relaksująca muzyka",
+        "Dostęp do stref wypoczynku i kawiarni",
+        "Profesjonalni terapeuci i doradcy wellness"
+        ],
+        "bestTime": "Poranki i popołudnia w dni powszednie",
+        "includes": [
+        "Wybrane zabiegi SPA",
+        "Dostęp do basenów, saun i stref relaksu",
+        "Ręczniki i szlafroki",
+        "Herbata i lekkie przekąski",
+        "Instrukcje i porady od terapeutów"
+        ],
+        "notIncludes": [
+        "Transport do SPA",
+        "Dodatkowe zabiegi premium",
+        "Zakupy osobiste i pamiątki"
+        ],
+        "difficulty": "Easy",
+        "price": "$50-120",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Marcelina T.",
+                "text": "Było w porządku, zgodnie z opisem. Miejsce czyste i zadbane, obsługa kompetentna."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Wojciech P.",
+                "text": "Całość przebiegła bezproblemowo. Dobrze przygotowane i przemyślane doświadczenie. Warto odwiedzić."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Lena S.",
+                "text": "Spokojna atmosfera i porządek. Wszystko funkcjonowało tak, jak powinno. Bez zastrzeżeń."
+            }
+        ]
+    },
+    {
+        "activity": "Pokaz Kulturowy",
+        "countries": ["Japonia", "Brazylia"],
+        "text": "Poznaj bogactwo lokalnych tradycji poprzez barwne występy, muzykę, taniec i opowieści, które ożywiają historię i kulturę danego miejsca.",
+        "img": "/images/cultural-show.png",
+        "title": "Tradycja i Sztuka w Pokazie Kulturowym",
+        "subtitle": "Poznaj ducha regionu poprzez barwne występy, muzykę, taniec i opowieści, które przenoszą w serce lokalnych tradycji.",
+        "description": "Pokaz Kulturowy to wyjątkowa okazja do poznania lokalnej sztuki, muzyki i tańca. Artyści prezentują tradycyjne stroje, rytuały i historie, a uczestnicy mogą włączyć się w interaktywne elementy występu. To inspirujące i edukacyjne doświadczenie, które przybliża kulturę w przystępny i angażujący sposób.",
+        "aboutActivity": "Pokaz Kulturowy to fascynujące spotkanie z tradycją i dziedzictwem danego regionu. Publiczność ma okazję podziwiać autentyczne występy muzyczne, taneczne i teatralne, które ukazują bogactwo lokalnej kultury. Barwne stroje, rytmiczne dźwięki i opowieści przekazywane z pokolenia na pokolenie tworzą niezwykłą atmosferę. To wydarzenie, które łączy rozrywkę z nauką, budząc zachwyt i ciekawość świata.",
+        "duration": "1-2 godziny",
+        "groupSize": "Grupy lub rodziny",
+        "minAge": "0",
+        "highlights": [
+        "Tradycyjne tańce i muzyka",
+        "Pokazy rzemiosła i strojów",
+        "Interaktywne sesje dla uczestników",
+        "Możliwość poznania historii regionu",
+        "Fotograficzne momenty podczas występu",
+        "Atmosfera pełna energii i barw"
+        ],
+        "bestTime": "Wieczory lub popołudnia",
+        "includes": [
+        "Wstęp na pokaz",
+        "Krótki przewodnik po tradycjach",
+        "Możliwość udziału w interaktywnych elementach",
+        "Materiały edukacyjne",
+        "Mini warsztaty dla dzieci"
+        ],
+        "notIncludes": [
+        "Transport na miejsce",
+        "Pamiątki i napoje",
+        "Dodatkowe warsztaty (opcjonalne)"
+        ],
+        "difficulty": "Easy",
+        "price": "$15-40",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Damian J.",
+                "text": "Nie było żadnych niespodzianek, wszystko zgodnie z planem. Miejsce robi dobre, neutralne wrażenie."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Agnieszka F.",
+                "text": "Organizacja na dobrym poziomie. Obsługa uprzejma, a całość przebiegła w spokojny sposób."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Grzegorz L.",
+                "text": "Czas spędzony w przyjemnym otoczeniu. Widać, że zadbano o szczegóły i porządek."
+            }
+        ]
+    },
+    {
+        "activity": "Wycieczka Rowerowa",
+        "countries": ["Francja"],
+        "text": "Poczuj wolność i dreszcz emocji, odkrywając lokalne krajobrazy z perspektywy dwóch kółek. Przemierzaj malownicze szlaki, urokliwe wioski i zachwycające widoki, ciesząc się każdą chwilą w ruchu.",
+        "img": "/images/biketour.png",
+        "title": "Rowerem przez Malownicze Szlaki",
+        "subtitle": "Poznaj lokalne krajobrazy i urokliwe wioski podczas aktywnej wycieczki rowerowej odpowiedniej dla każdego.",
+        "description": "Wycieczka Rowerowa to idealny sposób na aktywny wypoczynek w otoczeniu natury i lokalnych atrakcji. Trasy prowadzą przez winnice, lasy i urokliwe, historyczne wioski. Uczestnicy otrzymują mapy i wskazówki dotyczące bezpieczeństwa, a przewodnicy dzielą się ciekawostkami o regionie i jego kulturze.",
+        "aboutActivity": "Wycieczka Rowerowa to połączenie aktywności fizycznej z odkrywaniem piękna okolicy. Trasy prowadzą przez malownicze krajobrazy, pola, winnice i urokliwe miasteczka, oferując niezapomniane widoki. To idealna propozycja dla osób, które chcą połączyć ruch z relaksem na świeżym powietrzu. Dzięki doświadczonym przewodnikom i dobrze przygotowanym trasom każda wyprawa staje się bezpieczną i przyjemną przygodą.",
+        "duration": "3-5 godzin",
+        "groupSize": "Solo lub grupy",
+        "minAge": "8",
+        "highlights": [
+        "Malownicze szlaki rowerowe",
+        "Zwiedzanie lokalnych wiosek i atrakcji",
+        "Bezpieczne trasy dla dzieci i dorosłych",
+        "Możliwość robienia zdjęć i odpoczynku",
+        "Przewodnik z lokalną wiedzą",
+        "Łączy aktywność fizyczną z odkrywaniem kultury"
+        ],
+        "bestTime": "Poranki i popołudnia",
+        "includes": [
+        "Rower i kask",
+        "Mapa trasy",
+        "Przewodnik lub instrukcje",
+        "Punkty odpoczynku",
+        "Informacje o lokalnych atrakcjach"
+        ],
+        "notIncludes": [
+        "Transport do miejsca startu",
+        "Posiłki i napoje",
+        "Sprzęt dodatkowy (np. GPS, sakwy)"
+        ],
+        "difficulty": "Medium",
+        "price": "$20-50",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Aneta C.",
+                "text": "Było poprawnie i bez pośpiechu. Atmosfera sprzyjała odpoczynkowi, wszystko dobrze przygotowane."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Daniel O.",
+                "text": "Doświadczenie przebiegło zgodnie z oczekiwaniami. Niczego nie brakowało, a organizacja była na dobrym poziomie."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Weronika M.",
+                "text": "Miejsce spokojne i estetyczne. Czas minął szybko, bez żadnych problemów. Ogólne wrażenie pozytywne."
+            }
+        ]
+    },
+    {
+        "activity": "Warsztaty Fotograficzne",
+        "countries": ["Japonia", "Islandia", "Australia"],
+        "text": "Dołącz do profesjonalnych fotografów i naucz się uchwycić magię podróży. Poznaj techniki tworzenia wyjątkowych kadrów – od pejzaży po sceny uliczne – odkrywając ukryte miejsca i rozwijając swoje umiejętności w inspirującym otoczeniu.",
+        "img": "/images/photography.png",
+        "title": "Fotografia Podróżnicza i Kreatywne Warsztaty",
+        "subtitle": "Rozwijaj swoje umiejętności fotograficzne, odkrywając niezwykłe miejsca i ucząc się od profesjonalistów.",
+        "description": "Warsztaty Fotograficzne łączą praktykę z teorią, oferując inspirujące zajęcia dla miłośników fotografii. Uczestnicy poznają techniki kadrowania, pracy ze światłem, kompozycji i edycji zdjęć. Sesje odbywają się w malowniczych miejscach, co pozwala uchwycić wyjątkowe kadry i stworzyć profesjonalne portfolio.",
+        "aboutActivity": "Warsztaty Fotograficzne to inspirujące doświadczenie, które łączy naukę z twórczą pasją. Pod okiem doświadczonych instruktorów uczestnicy doskonalą swoje umiejętności w zakresie kompozycji, oświetlenia i postprodukcji. Zajęcia w plenerze pozwalają eksperymentować z różnymi stylami fotografii i odkrywać własny artystyczny styl. To doskonała okazja, by rozwijać kreatywność i tworzyć wyjątkowe zdjęcia pełne emocji i piękna.",
+        "duration": "4-6 godzin",
+        "groupSize": "Solo lub małe grupy",
+        "minAge": "12",
+        "highlights": [
+        "Profesjonalne sesje fotograficzne",
+        "Porady ekspertów w dziedzinie fotografii",
+        "Praktyka w terenie i w studiu",
+        "Analiza i omówienie zdjęć",
+        "Odkrywanie ukrytych miejsc do fotografii",
+        "Tworzenie własnego portfolio"
+        ],
+        "bestTime": "Poranki i popołudnia dla najlepszego światła",
+        "includes": [
+        "Instrukcje i wskazówki od fotografa",
+        "Dostęp do atrakcyjnych lokalizacji",
+        "Materiały edukacyjne i ćwiczenia",
+        "Możliwość wypożyczenia sprzętu (opcjonalnie)",
+        "Sesje indywidualne i grupowe"
+        ],
+        "notIncludes": [
+        "Transport na miejsce warsztatów",
+        "Sprzęt osobisty (aparat, obiektywy)",
+        "Posiłki i napoje"
+        ],
+        "difficulty": "Medium",
+        "price": "$50-100",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Kamil N.",
+                "text": "Było spokojnie i dobrze zorganizowane. Wszystko przebiegło bez opóźnień, a atmosfera była przyjemna."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Marta L.",
+                "text": "Miejsce spełniło oczekiwania. Obsługa była pomocna, a całość dobrze zaplanowana."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Tomasz R.",
+                "text": "Doświadczenie neutralne, ale pozytywne. Nie było tłoku, wszystko wyglądało estetycznie i schludnie."
+            }
+        ]
+    },
+    {
+        "activity": "Rejs Rzeczny",
+        "countries": ["Francja"],
+        "text": "Wybierz się w relaksujący rejs po malowniczych rzekach, mijając urokliwe miasteczka i zabytki widziane z zupełnie nowej perspektywy. Zanurz się w spokojnym rytmie wody, łącząc zwiedzanie z pełnym komfortem podróżowania.",
+        "img": "/images/cruise.png",
+        "title": "Spokojny Rejs Rzeczny",
+        "subtitle": "Ciesz się relaksującą podróżą po malowniczych rzekach, podziwiając po drodze naturę, zabytki i urokliwe nadbrzeżne miasteczka.",
+        "description": "Rejs Rzeczny łączy relaks z odkrywaniem uroków regionu. Podczas podróży można podziwiać malownicze miasta, zabytki i przyrodę rozciągającą się wzdłuż rzeki. Przewodnik dzieli się ciekawostkami o historii i kulturze lokalnej, sprawiając, że rejs staje się nie tylko przyjemny, ale i inspirujący.",
+        "aboutActivity": "Rejs Rzeczny to spokojna i malownicza podróż, która pozwala spojrzeć na świat z innej perspektywy. Płynąc wzdłuż brzegu, można podziwiać urokliwe krajobrazy, zabytkowe mosty i nadbrzeżne miasteczka. To idealny sposób na relaks i poznanie lokalnej historii w przyjemnej atmosferze. Delikatny szum wody i rytmiczny ruch statku tworzą wyjątkowy nastrój sprzyjający odprężeniu i refleksji.",
+        "duration": "2-4 godziny",
+        "groupSize": "Solo, grupy lub rodziny",
+        "minAge": "0",
+        "highlights": [
+        "Panoramiczne widoki z rzeki",
+        "Zwiedzanie historycznych miast i miasteczek",
+        "Przewodnik opowiadający ciekawostki historyczne",
+        "Komfortowe warunki na pokładzie",
+        "Możliwość fotografowania i odpoczynku",
+        "Strefy wypoczynkowe z cateringiem"
+        ],
+        "bestTime": "Poranki i późne popołudnia",
+        "includes": [
+        "Rejs po rzece",
+        "Przewodnik",
+        "Materiały informacyjne",
+        "Dostęp do stref wypoczynkowych na pokładzie",
+        "Opcjonalne napoje i przekąski"
+        ],
+        "notIncludes": [
+        "Transport do portu",
+        "Obiad lub kolacja (opcjonalnie)",
+        "Pamiątki"
+        ],
+        "difficulty": "Easy",
+        "price": "$25-60",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Natalia D.",
+                "text": "Czas minął szybko i w przyjaznej atmosferze. Wszystko zgodnie z opisem, bez zastrzeżeń."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Paweł T.",
+                "text": "Organizacja na dobrym poziomie. Można było spokojnie skorzystać z oferowanych możliwości."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Anna P.",
+                "text": "Było w porządku, bez pośpiechu. Miejsce czyste i zadbane, niczego nie brakowało."
+            }
+        ]
+    },
+    {
+        "activity": "Nurkowanie z rurką",
+        "countries": ["Tajlandia", "Australia"],
+        "text": "Poznaj fascynujący świat pod powierzchnią wody, dryfując nad kolorowymi rafami koralowymi i spotykając ciekawe morskie stworzenia. To bezpieczna i dostępna przygoda dla każdego wieku, która pozwala odkryć ukryte piękno natury z bliska.",
+        "img": "/images/snorkeling.png",
+        "title": "Podwodne Przygody z Rurką",
+        "subtitle": "Poznaj fascynujący świat pod powierzchnią wody, podziwiając kolorowe rafy koralowe i morskie życie w przejrzystych lagunach.",
+        "description": "Nurkowanie z Rurką to doskonały sposób, by odkryć barwny świat pod wodą w bezpieczny i przyjazny sposób. Uczestnicy poznają podstawy pływania, zasady bezpieczeństwa oraz techniki obserwacji życia morskiego. To idealna aktywność dla rodzin, par i podróżników, którzy pragną poznać piękno oceanu z bliska.",
+        "aboutActivity": "Nurkowanie z rurką to fascynująca przygoda, która otwiera drzwi do magicznego świata pod powierzchnią wody. Pod opieką doświadczonych instruktorów uczestnicy poznają podstawy oddychania, pływania i obserwacji morskich stworzeń. Kolorowe rafy koralowe, ryby i krystalicznie czysta woda tworzą niezapomniane wrażenia. To relaksująca i bezpieczna forma kontaktu z naturą, idealna dla osób w każdym wieku.",
+        "duration": "1-3 godziny",
+        "groupSize": "Solo, grupy lub rodziny",
+        "minAge": "6",
+        "highlights": [
+        "Obserwacja raf koralowych i ryb",
+        "Bezpieczne nurkowanie dla początkujących",
+        "Krystalicznie czysta woda i piękne krajobrazy",
+        "Możliwość fotografowania podwodnego świata",
+        "Instrukcje i wsparcie instruktora",
+        "Przygoda dostępna dla całej rodziny"
+        ],
+        "bestTime": "Poranki i popołudnia przy spokojnym morzu",
+        "includes": [
+        "Maska i rurka",
+        "Instruktor i wskazówki bezpieczeństwa",
+        "Krótki briefing o lokalnej faunie",
+        "Transport do miejsca nurkowania (jeśli zapewniony)",
+        "Mały poczęstunek po nurkowaniu"
+        ],
+        "notIncludes": [
+        "Transport własny",
+        "Posiłki i napoje",
+        "Profesjonalny sprzęt fotograficzny pod wodą"
+        ],
+        "difficulty": "Easy",
+        "price": "$20-50",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Jakub K.",
+                "text": "Całość przygotowana starannie. Dobrze zaplanowane i przejrzyste doświadczenie."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Karolina Z.",
+                "text": "Wszystko działało sprawnie. Czuć było porządek i dbałość o odwiedzających."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Piotr M.",
+                "text": "Wrażenia raczej spokojne i pozytywne. Nie było tłumu, co sprzyjało komfortowi."
+            }
+        ]
+    },
+    {
+        "activity": "Zakupy Na Lokalnym Rynku",
+        "countries": ["Maroko", "Tajlandia", "Peru"],
+        "text": "Zanurz się w lokalnej kulturze, przemierzając tętniące życiem targowiska pełne zapachów, kolorów i dźwięków. Odkrywaj stoiska z rękodziełem, przyprawami i świeżymi produktami, poznając autentyczne oblicze miejscowej społeczności.",
+        "img": "/images/shopping.png",
+        "title": "Autentyczne Zakupy na Targu",
+        "subtitle": "Zanurz się w lokalnej atmosferze, odkrywając aromaty przypraw, barwne stoiska i unikalne rękodzieło tworzone przez miejscowych rzemieślników.",
+        "description": "Zakupy Na Lokalnym Rynku to prawdziwa podróż w głąb kultury i codziennego życia mieszkańców. Odwiedzając targi, uczestnicy mogą skosztować lokalnych specjałów, kupić rękodzieło i poznać tradycje regionu. To interaktywne i angażujące doświadczenie, które pozwala poczuć prawdziwy rytm lokalnego życia.",
+        "aboutActivity": "Zakupy Na Lokalnym Rynku to wyjątkowa okazja, by poczuć autentyczny klimat miejsca i nawiązać kontakt z jego mieszkańcami. Kolorowe stoiska pełne świeżych produktów, aromatycznych przypraw i ręcznie wykonanych pamiątek zachęcają do odkrywania lokalnych tradycji. To doskonały sposób na poznanie kultury od kuchni — dosłownie i w przenośni. Każdy spacer po targu staje się inspirującą podróżą pełną smaków, zapachów i rozmów z ludźmi, którzy tworzą to wyjątkowe miejsce.",
+        "duration": "2-4 godziny",
+        "groupSize": "Solo lub grupy",
+        "minAge": "0",
+        "highlights": [
+        "Lokalne produkty i przyprawy",
+        "Rękodzieło i tradycyjne wyroby",
+        "Interakcja z lokalnymi sprzedawcami",
+        "Kolorowe i tętniące życiem targowiska",
+        "Możliwość spróbowania lokalnych przysmaków",
+        "Poznanie lokalnych tradycji i zwyczajów"
+        ],
+        "bestTime": "Poranki, kiedy targi są pełne życia",
+        "includes": [
+        "Wstęp na targ",
+        "Przewodnik po lokalnych stoiskach",
+        "Informacje o produktach i ich pochodzeniu",
+        "Mini warsztaty kulinarne lub rękodzielnicze",
+        "Wsparcie przy negocjacjach i zakupach"
+        ],
+        "notIncludes": [
+        "Zakupy i produkty spożywcze",
+        "Transport do targu",
+        "Posiłki i napoje"
+        ],
+        "difficulty": "Easy",
+        "price": "$5-20",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Magda S.",
+                "text": "Było dokładnie tak, jak się spodziewano. Miejsce estetyczne, a obsługa profesjonalna."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Dominik K.",
+                "text": "Było w porządku i bez pośpiechu. Wszystko przebiegło spokojnie, zgodnie z oczekiwaniami."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Ewelina R.",
+                "text": "Miejsce dobrze utrzymane i czyste. Obsługa działała sprawnie, a atmosfera była neutralna i przyjazna."
+            }
+        ]
+    },
+    {
+        "activity": "Lekcja Tańca",
+        "countries": ["Brazylia"],
+        "text": "Poczuj rytm i energię miejsca podczas dynamicznych zajęć tanecznych. Doświadcz kultury poprzez ruch, ucząc się kroków od lokalnych instruktorów i dając się porwać atmosferze radości i wspólnej zabawy.",
+        "img": "/images/dancing.png",
+        "title": "Tańce i Rytmy Kultury",
+        "subtitle": "Poczuj ducha miejsca, ucząc się tradycyjnych kroków tanecznych i zanurzając się w rytmach lokalnej muzyki podczas pełnej energii lekcji tańca.",
+        "description": "Lekcja Tańca to interaktywne doświadczenie, które pozwala odkrywać lokalną kulturę poprzez ruch i muzykę. Instruktorzy prowadzą uczestników przez tradycyjne i nowoczesne style, ucząc kroków, rytmu i ekspresji. To doskonała forma zabawy i integracji dla wszystkich, niezależnie od wieku czy poziomu umiejętności.",
+        "aboutActivity": "Lekcja Tańca to pełne energii spotkanie z muzyką i kulturą danego regionu. Pod okiem doświadczonych instruktorów uczestnicy uczą się podstawowych kroków, gestów i rytmów charakterystycznych dla lokalnych stylów tanecznych. Zajęcia łączą naukę z doskonałą zabawą, sprzyjając integracji i swobodnej ekspresji. To radosne i inspirujące doświadczenie, które pozwala poczuć ducha miejsca w rytmie tańca.",
+        "duration": "1-2 godziny",
+        "groupSize": "Solo lub grupy",
+        "minAge": "5",
+        "highlights": [
+        "Nauka lokalnych tańców i rytmów",
+        "Instruktorzy z doświadczeniem kulturowym",
+        "Interaktywna i dynamiczna lekcja",
+        "Poznanie historii i tradycji muzyki i tańca",
+        "Możliwość występu przed grupą",
+        "Rozwój koordynacji ruchowej i rytmu"
+        ],
+        "bestTime": "Popołudnia lub wieczory",
+        "includes": [
+        "Lekcja z instruktorem",
+        "Materiały informacyjne o tańcu",
+        "Muzyka i akompaniament",
+        "Mini pokaz dla uczestników",
+        "Wsparcie w nauce kroków"
+        ],
+        "notIncludes": [
+        "Transport do miejsca zajęć",
+        "Odzież i obuwie taneczne (opcjonalne)",
+        "Posiłki i napoje"
+        ],
+        "difficulty": "Easy",
+        "price": "$10-30",
+        "reviewsActivity": [
+            {
+                "img": "/images/avatar.png",
+                "name": "Adrian L.",
+                "text": "Doświadczenie zorganizowane poprawnie. Nie było tłoku, a całość pozostawiła dobre wrażenie."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Sylwia P.",
+                "text": "Wszystko wyglądało zgodnie z opisem. Czas minął przyjemnie i bez żadnych komplikacji."
+            },
+            {
+                "img": "/images/avatar.png",
+                "name": "Michał Z.",
+                "text": "Spokojne miejsce, dobrze przygotowane dla odwiedzających. Organizacja i obsługa na solidnym poziomie."
+            }
+        ]
+    }
+]
