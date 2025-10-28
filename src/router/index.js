@@ -16,7 +16,7 @@ const router = createRouter({
   routes: [
     { path: '/', name: 'home', component: HomeView, meta: { title: 'Twoja przygoda już na Ciebie czeka' } },
 
-    { path: '/destinations', name: 'destinations', component: DestinationsView, meta: { title: 'Podróżuj Tam, Gdzie Zaczyna Się Przygoda' } },
+    { path: '/destinations', name: 'destinations', component: DestinationsView, meta: { title: 'Wyrusz tam, gdzie rodzi się prawdziwa przygoda' } },
 
     {
       path: '/destinations/:slug',

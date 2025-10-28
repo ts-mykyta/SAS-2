@@ -6,7 +6,7 @@ import AppPromo from '@/components/AppPromo.vue'
 import AppDestinations from '@/components/AppDestinations.vue'
 import AppFooter from '@/components/AppFooter.vue'
 
-useHead({ title: 'Podróżuj Tam, Gdzie Zaczyna Się Przygoda' });
+useHead({ title: 'Wyrusz tam, gdzie rodzi się prawdziwa przygoda' });
 
 </script>
 
@@ -20,8 +20,8 @@ useHead({ title: 'Podróżuj Tam, Gdzie Zaczyna Się Przygoda' });
         <!-- Promo section -->
         <AppPromo
           imageUrl="/images/home-promo.png"
-          title="Podróż Bez Granic Poznaj Miejsca, Których Nie Zapomnisz"
-          subtitle="Wybierz się w podróż po niezwykłych zakątkach świata. Od złocistych plaż po historyczne metropolie – znajdź miejsce, które stanie się Twoją idealną ucieczką."
+          title="Podróż bez granic – odkrywaj miejsca, których nie zapomnisz"
+          subtitle="Wyrusz w niezwykłą podróż po zakątkach świata. Od słonecznych plaż po miasta pełne historii – znajdź przestrzeń, w której poczujesz prawdziwą wolność."
         />
 
         <!-- Country section -->
