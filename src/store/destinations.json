@@ -233,7 +233,7 @@
   {
     "country": "Nowa Zelandia",
     "tag": "Oceania",
-    "text": "Nowa Zelandia — kraina zapierających dech krajobrazów, od gór po fiordy, idealna dla miłośników natury i przygód.",
+    "text": "Nowa Zelandia to kraina niezwykłych widoków — od majestatycznych gór po malownicze fiordy, raj dla miłośników przyrody i emocji.",
     "img": "/images/new-zealand.png",
     "title": "Nowa Zelandia — serce natury",
     "subtitle": "Od gór Południowej Wyspy po jeziora i fiordy — odkryj krainę niekończącej się przygody.",
@@ -298,7 +298,7 @@
   {
     "country": "Maroko",
     "tag": "Afryka",
-    "text": "Maroko — kraj barw, aromatów i kontrastów, gdzie pustynia spotyka się z górami i orientalnymi miastami.",
+    "text": "Maroko to kraina kolorów, zapachów i niezwykłych kontrastów — gdzie złote piaski pustyni łączą się z górami i tętniącymi życiem miastami.",
     "img": "/images/morocco.png",
     "title": "Maroko — między pustynią a oceanem",
     "subtitle": "Od gór Atlasu po złote wydmy — kraj pełen zapachów, kolorów i tajemnic.",
@@ -367,7 +367,7 @@
   {
     "country": "Kanada",
     "tag": "Północna Ameryka",
-    "text": "Kanada — ziemia nieskończonych krajobrazów i przyjaznej różnorodności.",
+    "text": "Kanada — kraina bezkresnych przestrzeni, dzikiej natury i ciepłej gościnności.",
     "img": "/images/canada.png",
     "title": "Kanada — dzika i piękna",
     "subtitle": "Od wodospadów Niagara po majestatyczne Góry Skaliste — poczuj wolność natury.",
@@ -433,7 +433,7 @@
   {
     "country": "Włochy",
     "tag": "Europa",
-    "text": "Włochy — ojczyzna sztuki, historii i smaków, zachwycająca od Rzymu po winnice Toskanii.",
+    "text": "Włochy — kraj sztuki, pasji i aromatów, urzekający od zabytkowego Rzymu po słoneczne wzgórza i winnice Toskanii.",
     "img": "/images/italy.png",
     "title": "Italia — kraj sztuki i smaku",
     "subtitle": "Od Rzymu po Florencję — odkryj piękno, które inspiruje od wieków.",
@@ -499,7 +499,7 @@
   {
     "country": "Kenia",
     "tag": "Afryka",
-    "text": "Kenia — kraj safari i dzikiej przyrody, gdzie Afryka ukazuje swoje najpiękniejsze oblicze.",
+    "text": "Kenia — ziemia safari, słońca i wolności, gdzie dzika natura ukazuje najprawdziwsze oblicze Afryki.",
     "img": "/images/kenya.png",
     "title": "Kenia — dzika i majestatyczna",
     "subtitle": "Od bezkresnych sawann po Kilimandżaro — poczuj prawdziwe oblicze Afryki.",
@@ -564,7 +564,7 @@
   {
     "country": "Tajlandia",
     "tag": "Azja",
-    "text": "Tajlandia — kraina uśmiechu, złotych świątyń i rajskich plaż, pełna egzotyki i energii.",
+    "text": "Tajlandia — kraj uśmiechu, złotych świątyń i turkusowych plaż, tętniący egzotyką, smakiem i ciepłem.",
     "img": "/images/thailand.png",
     "title": "Tajlandia — serce Azji Południowo-Wschodniej",
     "subtitle": "Od złotych świątyń po turkusowe laguny — kraj pełen barw i harmonii.",
@@ -629,7 +629,7 @@
   {
     "country": "Islandia",
     "tag": "Europa",
-    "text": "Islandia — ziemia ognia i lodu, gdzie natura tworzy najbardziej niezwykłe pejzaże świata.",
+    "text": "Islandia — kraina lodu i ognia, w której natura maluje jedne z najbardziej zachwycających krajobrazów na świecie.",
     "img": "/images/island.png",
     "title": "Islandia — kraina ognia i lodu",
     "subtitle": "Od gejzerów po lodowce — kraj, gdzie natura tworzy własne arcydzieła.",
@@ -694,7 +694,7 @@
   {
     "country": "Peru",
     "tag": "Ameryka Południowa",
-    "text": "Peru — ojczyzna Machu Picchu i Inków, pełna gór, tradycji i fascynujących historii.",
+    "text": "Peru — kraj Inków i tajemniczego Machu Picchu, pełen majestatycznych gór, barwnych tradycji i niezwykłych opowieści.",
     "img": "/images/peru.png",
     "title": "Peru — śladami Inków",
     "subtitle": "Od gór Andów po lasy Amazonii — podróż, która przenosi w czasie.",
@@ -759,7 +759,7 @@
   {
     "country": "Australia",
     "tag": "Australia",
-    "text": "Australia — kraj słońca, surfingu i niezwykłej przyrody, otoczony oceanem i wolnością.",
+    "text": "Australia — ziemia słońca, fal i nieokiełznanej natury, otulona oceanem i przepełniona poczuciem wolności.",
     "img": "/images/australia.png",
     "title": "Australia — wolność bez granic",
     "subtitle": "Od złotych plaż po czerwone pustkowia — podróż, która inspiruje na każdym kroku.",
