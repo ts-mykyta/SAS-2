@@ -126,7 +126,7 @@ const props = defineProps({
         </RouterLink>
         <RouterLink class="card-hover" :to="{ name: 'activity', params: { slug: 'dzien-na-plazy' } }" data-discover="true">
           <div class="rounded-lg border bg-card text-card-foreground overflow-hidden h-full border-none shadow-md">
-            <div class="aspect-[16/9] overflow-hidden"><img loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110" alt="Beach Day" src="/images/beach.png"></div>
+            <div class="aspect-[16/9] overflow-hidden"><img loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110" alt="Beach Day" src="/images/beach.jpg"></div>
             <div class="p-6">
               <h4 class="text-xl font-bold text-gray-900 dark:text-white mb-3">Beach Day</h4>
               <p class="text-gray-600 dark:text-gray-300 mb-4 line-clamp-2">Beach Day to skąpane w słońcu nadmorskie doświadczenie, w którym możesz odpocząć na złotym piasku, popływać w krystalicznie czystych wodach i chłonąć tętniącą życiem nadmorską atmosferę z przyjaciółmi i rodziną.</p>
