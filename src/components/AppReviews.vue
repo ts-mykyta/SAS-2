@@ -74,9 +74,10 @@ const randomRate = () => {
                 <div class="flex justify-between items-start">
                   <div>
                     <h4 class="font-semibold text-foreground">{{ a.name }}</h4>
-                    <p class="text-sm text-muted-foreground">
+                    
+                    <!-- <p class="text-sm text-muted-foreground">
                       {{ props.countryActivity.slice(0, 1).toString() }}
-                    </p>
+                    </p> -->
                   </div>
                   <div class="flex items-center">
                     <svg
