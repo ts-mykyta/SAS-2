@@ -84,18 +84,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Kamil P.",
-        "text": "Kraj ma ciekawą historię i zróżnicowane krajobrazy. Widać wpływy różnych kultur, co tworzy interesującą mieszankę."
+        "name": "Agnieszka P.",
+        "text": "Ulice są zadbane, a infrastruktura wygląda coraz lepiej z roku na rok."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Marta K.",
-        "text": "Wiele rzeczy funkcjonuje dobrze, choć niektóre obszary mogłyby być lepiej rozwinięte. Ogólne wrażenie jest spokojne i zrównoważone."
+        "name": "Michał L.",
+        "text": "Ludzie są serdeczni i otwarci. Czuć tu pozytywną energię na każdym kroku."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Tomasz Z.",
-        "text": "Czuć tu połączenie tradycji i nowoczesności. Miasta są zadbane, a atmosfera raczej przyjazna."
+        "name": "Sandra K.",
+        "text": "W restauracjach panuje przyjemna atmosfera, a obsługa jest zawsze pomocna."
       }
     ]
   },
