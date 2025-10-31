@@ -150,18 +150,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Natalia R.",
-        "text": "Ludzie wydają się pomocni i otwarci. Kultura ma swój charakter, który można łatwo dostrzec na co dzień. To miejsce z własnym rytmem życia."
+        "name": "Dawid J.",
+        "text": "Zorganizowanie przestrzeni miejskiej robi wrażenie. Wszystko ma swoje miejsce."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Paweł M.",
-        "text": "W większych miastach panuje szybkie tempo, ale poza nimi można znaleźć spokój. Zróżnicowanie regionalne jest widoczne."
+        "name": "Julia N.",
+        "text": "Kultura codzienna jest spokojna i uporządkowana, co wprowadza harmonię."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Anna L.",
-        "text": "Infrastruktura jest na dobrym poziomie. Czasami zdarzają się drobne niedogodności, lecz nie wpływają one znacząco na codzienność."
+        "name": "Łukasz R.",
+        "text": "Miejsca publiczne są czyste i dobrze utrzymane, co widać na każdym kroku."
       }
     ]
   },
@@ -215,18 +215,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Jakub S.",
-        "text": "Kraj wydaje się stabilny i uporządkowany. Widać dbałość o przestrzeń publiczną i otoczenie."
+        "name": "Ewa S.",
+        "text": "Transport działa bez zarzutu. Autobusy i pociągi przyjeżdżają punktualnie."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Karolina B.",
-        "text": "Architektura w wielu miejscach jest ciekawa i różnorodna. Można dostrzec wpływy historii w budynkach i układzie miast. To dodaje im wyjątkowego klimatu."
+        "name": "Kamil O.",
+        "text": "Lokalni mieszkańcy są życzliwi i zawsze gotowi doradzić przybyszom."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Piotr D.",
-        "text": "Transport publiczny działa sprawnie. Czasami występują opóźnienia, ale ogólnie system jest przejrzysty."
+        "name": "Anna W.",
+        "text": "Centrum miasta jest pełne życia, ale jednocześnie nie brakuje spokoju."
       }
     ]
   },
@@ -280,18 +280,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Magda W.",
-        "text": "Przyroda jest dostępna i dobrze zachowana. Góry, jeziora i lasy tworzą przyjemne warunki do wypoczynku. Miejsce idealne do spokojnych wędrówek."
+        "name": "Tomasz Z.",
+        "text": "Nowoczesna architektura świetnie łączy się z klasycznymi elementami."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Dominik N.",
-        "text": "Kraj ma spokojną atmosferę i dobrze rozwiniętą infrastrukturę. Widać, że wiele inwestuje się w nowoczesne rozwiązania i porządek przestrzenny."
+        "name": "Karolina B.",
+        "text": "Parki i ogrody są piękne o każdej porze roku. Idealne miejsce na odpoczynek."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Ewelina J.",
-        "text": "Lokalna kuchnia jest zróżnicowana. Nie wszystko odpowiada każdemu, ale można znaleźć ciekawe smaki."
+        "name": "Patryk M.",
+        "text": "Poziom usług jest stabilny, a pracownicy starają się o wysoką jakość."
       }
     ]
   },
@@ -349,18 +349,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Adrian O.",
-        "text": "Ceny są różne w zależności od regionu. W większych miastach wyższe, ale w mniejszych miejscowościach bardziej przystępne."
+        "name": "Dominika H.",
+        "text": "W sklepach można znaleźć wszystko, czego potrzeba. Wybór jest ogromny."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Sylwia G.",
-        "text": "Wiele zabytków jest dobrze zachowanych i dostępnych dla zwiedzających. Czuć szacunek do historii."
+        "name": "Mateusz C.",
+        "text": "Drogi są w dobrym stanie, a ruch przebiega płynnie i bez chaosu."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Michał W.",
-        "text": "Ludzie są raczej uprzejmi, choć czasami zdystansowani. W codziennych kontaktach panuje spokój i uprzejmość."
+        "name": "Klaudia F.",
+        "text": "Wieczorami miasto staje się ciche i spokojne. To dobry moment na spacer."
       }
     ]
   },
@@ -415,18 +415,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Ola C.",
-        "text": "Pogoda potrafi się szybko zmienić. Krajobrazy są jednak malownicze i warto je zobaczyć o każdej porze roku."
+        "name": "Jakub S.",
+        "text": "Ceny nie są przesadzone, a jakość usług zdecydowanie idzie w górę."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Łukasz E.",
-        "text": "Widać dbałość o środowisko i rozwój zielonych przestrzeni. To dobre miejsce do życia w spokojnym tempie."
+        "name": "Paulina T.",
+        "text": "Mieszkańcy cenią sobie porządek i czystość. To widać w codziennym życiu."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Julia D.",
-        "text": "Transport publiczny działa sprawnie. Łatwo można przemieszczać się między większymi miastami."
+        "name": "Bartosz E.",
+        "text": "Przyroda wokół miasta jest zachwycająca. Wystarczy krótki wypad za granice centrum."
       }
     ]
   },
@@ -481,18 +481,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Patryk F.",
-        "text": "Miasta różnią się klimatem i architekturą. Każde z nich ma coś innego do zaoferowania. To czyni podróże ciekawszymi."
+        "name": "Magda D.",
+        "text": "Sklepy i lokale są zadbane, a obsługa zawsze z uśmiechem."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Alicja T.",
-        "text": "Lokalne wydarzenia kulturalne są ciekawe i dobrze zorganizowane. To sposób, by lepiej poznać tradycję i współczesność."
+        "name": "Norbert K.",
+        "text": "Nowe inwestycje pokazują, że region rozwija się w dobrym kierunku."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Rafał P.",
-        "text": "Czystość przestrzeni publicznych robi pozytywne wrażenie. Widać, że ludzie dbają o otoczenie."
+        "name": "Oliwia P.",
+        "text": "Bezpieczeństwo jest na wysokim poziomie, także w godzinach nocnych."
       }
     ]
   },
@@ -546,18 +546,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Kinga B.",
-        "text": "Bezpieczeństwo stoi na wysokim poziomie. Nawet wieczorne spacery nie budzą niepokoju."
+        "name": "Piotr G.",
+        "text": "Zabytki robią wrażenie, a historia miejsca jest naprawdę interesująca."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Sebastian H.",
-        "text": "Przyroda jest różnorodna — od plaż po góry. Każdy region ma swój niepowtarzalny charakter."
+        "name": "Justyna R.",
+        "text": "Pogoda bywa kapryśna, ale nawet wtedy jest tu przyjemnie spacerować."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Patrycja Z.",
-        "text": "Architektura łączy nowoczesność z historią. Wiele miast zachowało swój pierwotny układ i atmosferę."
+        "name": "Adrian W.",
+        "text": "Widać troskę o środowisko – dużo zieleni, segregacja odpadów i czyste powietrze."
       }
     ]
   },
@@ -611,18 +611,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Mateusz R.",
-        "text": "Poziom usług jest zadowalający. Widać, że obsługa klienta ma coraz większe znaczenie."
+        "name": "Natalia L.",
+        "text": "Kultura lokalna jest bogata i różnorodna. Warto uczestniczyć w wydarzeniach."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Klaudia L.",
-        "text": "Język może być trudny dla osób z zewnątrz, ale ludzie są cierpliwi i pomocni. To ułatwia codzienną komunikację."
+        "name": "Filip B.",
+        "text": "Miejsca turystyczne są dobrze oznaczone, łatwo się poruszać nawet bez przewodnika."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Norbert S.",
-        "text": "Zimą krajobrazy wyglądają wyjątkowo. Góry przyciągają spokojem i pięknymi widokami."
+        "name": "Martyna J.",
+        "text": "Czuć tu spokój i równowagę. Idealne miejsce do życia lub odpoczynku."
       }
     ]
   },
@@ -676,18 +676,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Justyna K.",
-        "text": "Miasta są dobrze oświetlone i bezpieczne po zmroku. Dzięki temu można spokojnie spacerować wieczorem."
+        "name": "Wojciech D.",
+        "text": "Organizacja przestrzeni publicznej stoi na wysokim poziomie."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Bartek G.",
-        "text": "Widać rozwój gospodarczy i inwestycje w infrastrukturę. Z roku na rok kraj wygląda coraz nowocześniej."
+        "name": "Katarzyna C.",
+        "text": "Lokalne tradycje są pielęgnowane z dumą i przekazywane młodszym pokoleniom."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Izabela N.",
-        "text": "Edukacja ma dobre zaplecze. Instytucje kulturalne oferują wiele interesujących programów."
+        "name": "Szymon N.",
+        "text": "Dostęp do usług publicznych jest łatwy, a urzędy działają sprawnie."
       }
     ]
   },
@@ -741,18 +741,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Damian J.",
-        "text": "System zdrowia funkcjonuje poprawnie, choć czasem trzeba czekać dłużej. Ogólnie usługi medyczne są dostępne."
+        "name": "Izabela M.",
+        "text": "Kawiarnie są przytulne i pełne charakteru. Idealne na spokojne popołudnie."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Weronika M.",
-        "text": "Miejsca publiczne są zadbane. W parkach i na ulicach panuje porządek."
+        "name": "Marcin L.",
+        "text": "Miejsca rekreacyjne są zadbane i dobrze przystosowane dla rodzin."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Grzegorz L.",
-        "text": "Kraj ma stabilną gospodarkę i spokojną atmosferę. Widać pozytywne zmiany w codziennym życiu mieszkańców."
+        "name": "Emilia Z.",
+        "text": "Mieszkańcy są gościnni i lubią dzielić się lokalnymi historiami."
       }
     ]
   },
@@ -806,18 +806,18 @@
     "reviews": [
       {
         "img": "/images/avatar.png",
-        "name": "Aneta C.",
-        "text": "Sztuka i kultura są dobrze obecne. Wystawy i koncerty odbywają się regularnie, co tworzy ciekawe środowisko."
+        "name": "Krzysztof T.",
+        "text": "Zimą okolica wygląda bajkowo, szczególnie gdy wszystko pokrywa śnieg."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Daniel O.",
-        "text": "łatwe. Transport działa sprawnie i przewidywalnie."
+        "name": "Aleksandra W.",
+        "text": "System informacji turystycznej jest przejrzysty i bardzo pomocny."
       },
       {
         "img": "/images/avatar.png",
-        "name": "Agnieszka F.",
-        "text": "Lokalne firmy rozwijają się dynamicznie. Widać, że przedsiębiorczość staje się coraz silniejsza."
+        "name": "Rafał P.",
+        "text": "Ogólne wrażenie jest bardzo pozytywne. Widać równowagę między tradycją a nowoczesnością."
       }
     ]
   }
